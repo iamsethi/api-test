@@ -1,0 +1,19 @@
+2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onStart method API Test
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method getAllCountries start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestSuccess method getAllCountries succeed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method getEachCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestFailure method getEachCountry failed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method getEachCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestFailure method getEachCountry failed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method getEachCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestFailure method getEachCountry failed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method postNewCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestSuccess method postNewCountry succeed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method postNewCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestSuccess method postNewCountry succeed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method postNewCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestSuccess method postNewCountry succeed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestStart method tryInexistentCountry start
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onTestSuccess method tryInexistentCountry succeed
+ 2019-09-27--INFO -com.hellofresh.challenge.extent.reports.TestListener:onFinish method API Test
+ 
