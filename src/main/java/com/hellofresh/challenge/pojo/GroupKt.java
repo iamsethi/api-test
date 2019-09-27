@@ -4,9 +4,9 @@ public class GroupKt {
 
 	private String name;
 
-	private String alpha3_code;
-
 	private String alpha2_code;
+
+	private String alpha3_code;
 
 	public String getName() {
 		return name;
@@ -14,14 +14,6 @@ public class GroupKt {
 
 	public void setName(String name) {
 		this.name = name;
-	}
-
-	public String getAlpha3_code() {
-		return alpha3_code;
-	}
-
-	public void setAlpha3_code(String alpha3_code) {
-		this.alpha3_code = alpha3_code;
 	}
 
 	public String getAlpha2_code() {
@@ -32,5 +24,12 @@ public class GroupKt {
 		this.alpha2_code = alpha2_code;
 	}
 
+	public String getAlpha3_code() {
+		return alpha3_code;
+	}
+
+	public void setAlpha3_code(String alpha3_code) {
+		this.alpha3_code = alpha3_code;
+	}
 
 }
