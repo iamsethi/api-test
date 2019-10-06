@@ -18,7 +18,7 @@ mvn clean test
 * Output will be on Console,File.txt and .html file
 
 
-##### Generation human readable report [Sample Output](https://web-test-hellofresh.s3-eu-west-1.amazonaws.com/ExtentReportResults_Api.html)
+##### Generation human readable report 
 * Integrated framework with Extent Reports
 * Ouput report has two tabs at left top corner to view the report in sequential format or graph format
 
